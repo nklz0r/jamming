@@ -1,4 +1,4 @@
-const clientId = 'a86d16308c16452db28f3c47e26dfee7';
+const clientId = 'removed for security reasons :)';
 const redirectURI = 'http://jamwithme.surge.sh';
 let token = '';
 
